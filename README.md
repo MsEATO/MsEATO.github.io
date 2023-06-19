@@ -1,7 +1,7 @@
 # Executive Summary: EATO MVP0 Solution
 
 ## Introduction
-EATO is a company specializing in preparing video recipes as social media content. In order to enhance user engagement and offer a convenient ordering experience, EATO aims to develop a Minimum Viable Product (MVP0) that includes a standalone website, a chatbot for social media platforms, and an ordering bot for Instagram. This executive summary outlines the key components and benefits of the EATO MVP0 solution.
+EATO is a company specializing in preparing video recipes as social media content. In order to enhance user engagement and offer a convenient ordering experience, EATO aims to develop a Minimum Viable Product (MVP0) that includes a standalone website, a chatbot for social media platforms, and a quick order bot. This executive summary outlines the key components and benefits of the EATO MVP0 solution.
 
 ## Standalone Website
 
