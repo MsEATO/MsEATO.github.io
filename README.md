@@ -25,7 +25,7 @@ To leverage the popularity of Instagram and enhance user convenience, EATO will 
 ## Value Added Services
 In addition to the core features outlined in the MVP0 solution, EATO may as well provide a range of value-added services to further enhance the user experience:
 
-- User Profiles: Users can create accounts, save favorite recipes, customize dietary preferences, and receive personalized recommendations.
+- Personalization: Users can create accounts, save favorite recipes, customize dietary preferences, and receive personalized recommendations.
 - Ratings and Reviews: Users can rate and review recipes, fostering a vibrant feedback community.
 - Social Sharing: Integration of social sharing buttons for easy recipe sharing on popular platforms.
 - Recipe Collections: Curated collections of recipes based on different themes for easy discovery.
