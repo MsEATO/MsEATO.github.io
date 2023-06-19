@@ -23,7 +23,7 @@ The EATO MVP0 solution includes a chatbot that will be integrated with major soc
 To leverage the popularity of Instagram and enhance user convenience, EATO will develop an ordering bot specifically for this platform. The bot will monitor the comments section of EATO's Instagram channel and allow users to add a recipe box to cart or issue an order directly from the comment section. When a user issues a command under a specific recipe, the quick-order bot will prepare an order, including the required ingredients, and send a direct message to the user with the order details and a payment link. This automated process eliminates the need for users to visit the website separately, streamlining the ordering experience.
 
 ## Value Added Services
-In addition to the core features outlined in the MVP0 solution, EATO will provide a range of value-added services to further enhance the user experience:
+In addition to the core features outlined in the MVP0 solution, EATO may as well provide a range of value-added services to further enhance the user experience:
 
 - User Profiles: Users can create accounts, save favorite recipes, customize dietary preferences, and receive personalized recommendations.
 - Ratings and Reviews: Users can rate and review recipes, fostering a vibrant feedback community.
